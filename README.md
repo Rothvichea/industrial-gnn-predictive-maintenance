@@ -24,6 +24,9 @@ This project models the factory as a **graph** where nodes are bearings and edge
 
 ## Results
 
+![Ablation](experiments/plots/ablation_comparison.png)
+
+
 | Model | Architecture | Test Accuracy | Params |
 |-------|-------------|:-------------:|-------:|
 | Baseline | 1D-CNN only | 98.49% | 689K |
