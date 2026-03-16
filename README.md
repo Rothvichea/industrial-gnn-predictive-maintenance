@@ -236,6 +236,13 @@ A simple concatenation treats CNN and GNN embeddings equally. The sigmoid gate l
 
 1. Smith, W.A. & Randall, R.B. (2015). *Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study.* Mechanical Systems and Signal Processing.
 2. Hamilton, W., Ying, Z. & Leskovec, J. (2017). *Inductive Representation Learning on Large Graphs.* NeurIPS.
+3. Zhang, W. et al. (2017). *A New Deep Learning Model for Fault Diagnosis 
+   with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals.* 
+   Sensors, 17(2), 425.
+
+4. Ding, X. et al. (2023). *A Systematic Review of Data Leakage in Machine 
+   Learning for Bearing Fault Detection.* IEEE Transactions on Industrial 
+   Electronics.
 
 ---
 
@@ -245,10 +252,3 @@ A simple concatenation treats CNN and GNN embeddings equally. The sigmoid gate l
   <a href="https://www.linkedin.com/in/chea-rothvichea-a96154227/">LinkedIn</a> ·
   <a href="https://github.com/Rothvichea">GitHub</a>
 </p>
-3. Zhang, W. et al. (2017). *A New Deep Learning Model for Fault Diagnosis 
-   with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals.* 
-   Sensors, 17(2), 425.
-
-4. Ding, X. et al. (2023). *A Systematic Review of Data Leakage in Machine 
-   Learning for Bearing Fault Detection.* IEEE Transactions on Industrial 
-   Electronics.
