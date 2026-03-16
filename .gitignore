@@ -1,0 +1,26 @@
+# Data — too large for GitHub
+data/raw/
+
+# Model checkpoints — regeneratable
+experiments/*.pt
+
+# MLflow local DB and runs
+mlflow.db
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Env
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
